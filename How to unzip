@@ -1,0 +1,3 @@
+Replace "[destination directory]" with the path to the directory where you want to extract the files.
+
+PowerShell Expand-Archive -Path "C:\Users\Dipak\Desktop\test.zip" -DestinationPath "C:\Users\Dipak\Desktop"
